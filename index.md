@@ -20,3 +20,5 @@ von jedem Entwickler erlernt werden.
 
 Oscar Wilde said:
 > Müzik, hissin uğultusudur
+
+<img src="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/15181270_554540911420063_3683528695062790091_n.jpg?_nc_cat=100&_nc_sid=dd9801&_nc_ohc=vnyVX3JruCEAX8oMYaT&_nc_ht=scontent-frx5-1.xx&oh=9741f182da8ee06cb96c3acf4ab44ffd&oe=5F132866"/>
