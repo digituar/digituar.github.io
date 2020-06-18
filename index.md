@@ -16,3 +16,7 @@ von jedem Entwickler erlernt werden.
 * Lyrics edit
 * Lyrics delete
 * Lyrics search
+
+
+Oscar Wilde said:
+> Müzik, hissin uğultusudur
